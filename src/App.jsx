@@ -39,7 +39,7 @@ function App(){
 
   }
   return(
-    <div className='flex items-center flex-col w-full h-dvh bg-slate-800'>
+    <div className='flex items-center flex-col w-full '>
       <h1 className='m-10 text-5xl text-center w-max text-white font-bold underline underline-offset-8 font-mono'>TODO LIST</h1>
       <div className='flex items-center gap-3'>
 
